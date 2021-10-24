@@ -1,0 +1,6 @@
+file:
+  upload:
+    location: C:\Users\WONHEECHO\Desktop
+
+app:
+  ports: 8080
